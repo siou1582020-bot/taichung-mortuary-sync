@@ -6,7 +6,7 @@ import io
 from datetime import datetime
 
 # 資料來源（台中市開放資料）
-DATA_URL = "https://opendata.taichung.gov.tw/dataset/5d10fdbb-7812-431e-93f0-c7bb84dfeccc/resource/463a6e9a-7c97-4089-9e8c-57c25c345b54/download"
+DATA_URL = "https://mortuary.taichung.gov.tw/Frontend/Morticianlist.aspx?referrer=grok.com"
 
 # 資料庫檔名
 DB_NAME = "mortuary.db"
